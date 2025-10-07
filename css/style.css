@@ -55,7 +55,7 @@ menu li a {
   text-align: center;
   align-items: center;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/img/hero_2.jpg) 0% 0% / cover;
+    url(../img/hero_2.jpg) 0% 0% / cover;
   height: 100vh;
   font-family: "Oswald", sans-serif;
   color: white;
@@ -174,7 +174,7 @@ h5 {
   padding: 20px;
   min-height: 40vh;
   background: linear-gradient(rgb(16, 137, 255, 0.5), rgb(16, 137, 255)),
-    url(/img/bck.jpg); 
+    url(../img/bck.jpg); 
   position: relative;
   background-attachment: fixed;
   background-position: center center;
